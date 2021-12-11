@@ -8,6 +8,9 @@
 - <u>dedication</u>
   <p><i>"this is a bot for all things you want ,that show your videos , youtube videos ... and enjoy songs from your favourite tracks 🎶🎶🎶"</i><p>
   
+
+- FOR STRING - 
+- [@genStr_Bot](https://t.me/genstr_Bot)
   
 ### Special thanks :- 
 
