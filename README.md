@@ -6,8 +6,9 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sakhaavvaavaj93/aloneloverbot)
 
 - <u>dedication</u>
-  <p><i>"this is a bot for all things you want ,that show your videos , youtube videos ... and enjoy songs from your favourite tracks 🎶🎶🎶"</i><p>
-  
+  <p><i>"this is a bot for all things you want ,that show your videos , youtube videos ... and enjoy songs from your favourite tracks 🎶🎶🎶"</i></p>
+  <p><u> U can play music without support bot at any where </u></p>
+
 
 - FOR STRING - 
 - [@genStr_Bot](https://t.me/genstr_Bot)
