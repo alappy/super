@@ -16,3 +16,13 @@
 ### Special thanks :- 
 
 - [ജിന്ന്](https://t.me/JINN_SULTHAN)
+
+ 
+## commands (with ! Mark)
+
+- play 
+- vplay
+- pause
+- stop
+- skip
+- stream(live video link/youtoubelink)
