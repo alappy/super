@@ -20,7 +20,7 @@
         "HNDLR": {
             "description": "Set handler",
             "required": false,
-            "value": "/"
+            "value": "!"
         },
         "API_HASH": {
             "description": "Your api hash from my.telegram.org/apps",
