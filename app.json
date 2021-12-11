@@ -1,0 +1,50 @@
+{
+    "name": "alonelover",
+    "description": "Telegram UserBot for Video Chat.",
+    "logo": "https://telegra.ph/file/8f6b5fb2049a2a6dbc5c2.jpg",
+    "keywords": [
+        "Telegram",
+        "MusicPlayer",
+        "VideoPlayer"
+    ],
+    "repository": "https://github.com/sakhaavvaavaj93/alonelover",
+    "env": {
+        "SESSION": {
+            "description": "Pyrogram String Session",
+            "required": true
+        },
+        "API_ID": {
+            "description": "Your api id from my.telegram.org/apps",
+            "required": true
+        },
+        "HNDLR": {
+            "description": "Set handler",
+            "required": false,
+            "value": "/"
+        },
+        "API_HASH": {
+            "description": "Your api hash from my.telegram.org/apps",
+            "required": true
+        },
+        "SUDO_USERS": {
+            "description": "User ID list user counts as admin everywhere(separator using space)",
+            "required": true
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "stack": "container"
+}
