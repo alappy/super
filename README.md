@@ -3,7 +3,7 @@
 ![alonelover](https://telegra.ph/file/8f6b5fb2049a2a6dbc5c2.jpg)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sakhaavvaavaj93/aloneloverbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/alappy/super)
 
 - <u>dedication</u>
   <p><i>"this is a bot for all things you want ,that show your videos , youtube videos ... and enjoy songs from your favourite tracks 🎶🎶🎶"</i></p>
